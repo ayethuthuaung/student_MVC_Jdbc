@@ -126,6 +126,7 @@ body {
 </head>
 <body>
 	<div class="container">
+		<h1>Hello</h1>
 		<form class="login-form" method="post">
 			<div class="heading">Login</div>
 			<p id="loginError" style="color: red; margin-bottom: 0px;"></p>
